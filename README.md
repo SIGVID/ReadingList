@@ -29,6 +29,14 @@ The reading list for the Special Interest Group on Visual Information Descriptio
 * [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)[ICCV 2015]
 
 
+
+
+## Miscellaneous
+* [Spatial Transformer Networks](http://papers.nips.cc/paper/5854-spatial-transformer-networks)[NIPS 2015]
+
+
+
+
 ## Appendix
 ### Other Reading Lists
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
