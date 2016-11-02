@@ -32,7 +32,7 @@ The reading list for the Special Interest Group on Visual Information Descriptio
 
 
 ## Miscellaneous
-* [Spatial Transformer Networks](http://papers.nips.cc/paper/5854-spatial-transformer-networks)[NIPS 2015]
+* [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)[NIPS 2015]
 
 
 
