@@ -57,3 +57,6 @@ The reading list for the Special Interest Group on Visual Information Descriptio
 #### Deeper LSTM+ normalized CNN for Visual Question Answering
 * [Github homepage](https://github.com/VT-vision-lab/VQA_LSTM_CNN)
 * [A live demo](http://cloudcv.org/vqa/)
+
+#### Faster RCNN
+* [anchor_target_layer](https://github.com/rbgirshick/py-faster-rcnn/blob/master/lib/rpn/anchor_target_layer.py#L65)
