@@ -29,6 +29,10 @@ The reading list for the Special Interest Group on Visual Information Descriptio
 * [VQA: Visual Question Answering](https://arxiv.org/abs/1505.00468)[ICCV 2015]
 
 
+## Theories of DNN
+* [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://papers.nips.cc/paper/5486-identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization.pdf)[NIPS 2014]
+* [The loss surfaces of multilayer networks](http://www.jmlr.org/proceedings/papers/v38/choromanska15.pdf)[JMLR 2015]
+* [On the expressive power of deep neural networks](https://arxiv.org/pdf/1606.05336.pdf)[ML/AI arxiv 2016] 
 
 
 ## Miscellaneous
